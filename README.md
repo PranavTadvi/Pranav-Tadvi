@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeekyPranav
+- 👋 Hi, I’m @PranavTadvi
 - 👀 I’m interested in Learning.
 - 🌱 I’m currently learning MERN stack.
 
